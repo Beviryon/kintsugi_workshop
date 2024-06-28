@@ -26,8 +26,8 @@ body {
   transition: background-color 0.3s ease;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   position: relative;
-  left: 210px;
-  top: 40vh;
+  left: 200px;
+  top: 32vh;
 }
 
 .ui.button:hover {
